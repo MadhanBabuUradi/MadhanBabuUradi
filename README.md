@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @MadhanBabuUradi
 - 👀 I’m interested in Learning new things 
-- 🌱 I’m currently learning Web development 
+- 🌱 I’m currently learning Full Stack Web Development  
 - 💞️ I’m looking to collaborate on open source enthusiast
 - 📫 How to reach me ...Nice to meet you ! 
 
