@@ -33,6 +33,17 @@
 
  </p>
 
+ <br>
+ <h1  align="center">Most Used Languages 💻</h1> 
+
+
+
+
+<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MadhanBabuUradi&layout=compact&theme=midnight-purple" alt="MadhanBabuUradi" /></p>
+
+
+<br>
+
 
 
  
