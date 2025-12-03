@@ -4,7 +4,7 @@
     <img src="https://readme-typing-svg.herokuapp.com?color=E22FE4&width=380&height=45&lines=Always+Learning+New+Things...&center=true">
 </p>
 
-<p align="center"> A bit about Myself, I'm Madhan Babu Uradi pursuing my Computer Science Degree currently , As of now, I am focused on web development and web3 but still, wish to explore many fields. ⚡</p>
+<p align="center"> Full-Stack Developer with hands-on experience in Java, Spring Boot, React, and database-driven applications. Currently building impactful web platforms while actively exploring Web3 technologies and emerging development trends. ⚡</p>
 
 
 <h1 align="center">< ToolBox 🛠></h1>
