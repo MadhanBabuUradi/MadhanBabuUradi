@@ -1,9 +1,7 @@
 <img src="https://github.com/MadhanBabuUradi/MadhanBabuUradi/blob/main/Header.gif?raw=true">
-<h1 align="center">Hi, I'm Madhan Babu Uradi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
-    <br>
-    <br>Full Stack Developer (Java + React) | Spring Boot Learner | Building real-world, database-driven web applications</br>
-</br>
-</h1>
+<h2 align="center">Hi, I'm Madhan Babu Uradi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"></h2>
+<h3 align="center">Full Stack Developer (Java + React) | Spring Boot Learner | Building real-world, database-driven web applications</br></h3>
+
 
 
 
@@ -33,22 +31,10 @@
     
    <br>
     
-<h1 align="center">Let's Get Connected</h1>
-<br>
+<h2 align="center">Let's Get Connected</h2>
+
 <p align="center">
-<a  href="https://www.linkedin.com/in/madhanbabuuradi/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> 
-<a href="mailto:umadhanbabu01@gmail.com" target="_blank"><img alt="Mail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-</a> </p>
-<br>
-     <br>
- <h1  align="center">Most Used Languages 💻</h1> 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MadhanBabuUradi&layout=compact&theme=midnight-purple&size_weight=0&count_weight=1" alt="MadhanBabuUradi Top Languages" />
+    I am actively seeking **Full Stack Developer** roles where I can leverage my Java and React skills. Feel free to connect!
 </p>
-    <br>
-</br>
-
-
- 
-
+<br>
 
