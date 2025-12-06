@@ -40,13 +40,12 @@
 <a href="mailto:umadhanbabu01@gmail.com" target="_blank"><img alt="Mail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a> </p>
 <br>
- <br>
+     <br>
  <h1  align="center">Most Used Languages 💻</h1> 
-
-
-
-<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MadhanBabuUradi&layout=compact&theme=midnight-purple" alt="MadhanBabuUradi"/></p>
-<br>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MadhanBabuUradi&layout=compact&theme=midnight-purple&size_weight=0&count_weight=1" alt="MadhanBabuUradi Top Languages" />
+</p>
+    <br>
 </br>
 
 
