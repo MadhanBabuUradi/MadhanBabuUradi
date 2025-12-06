@@ -1,7 +1,7 @@
 <img src="https://github.com/MadhanBabuUradi/MadhanBabuUradi/blob/main/Header.gif?raw=true">
 
 <h2 align="center">Hi, I'm Madhan Babu Uradi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"></h2>
- align="center">Full Stack Developer | Spring Boot Learner | Building real-world, database-driven web applications
+ <b>Full Stack Developer | Spring Boot Learner | Building real-world, database-driven web applications</b>
 
 
 
