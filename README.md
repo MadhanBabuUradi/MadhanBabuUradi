@@ -36,9 +36,10 @@
 <h1 align="center">Let's Get Connected</h1>
 <br>
 <p align="center">
-<a  href="https://www.linkedin.com/in/madhanbabuuradi/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a  href="https://www.linkedin.com/in/madhanbabuuradi/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> 
+<a  href="umadhanbabu01@gmail.com" target="_blank"><img alt="Mail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>    
  </p>
-
+<br>
  <br>
  <h1  align="center">Most Used Languages 💻</h1> 
 
@@ -46,7 +47,7 @@
 
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MadhanBabuUradi&layout=compact&theme=midnight-purple" alt="MadhanBabuUradi"/></p>
 <br>
-
+</br>
 
 
  
