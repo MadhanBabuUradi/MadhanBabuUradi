@@ -33,5 +33,7 @@
     <a href="mailto:umadhanbabu01@gmail.com" target="_blank"><img alt="Mail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
 
-<br> <p align="center">I am actively seeking <b>Full Stack Developer</b> roles where I can leverage my Java and React skills. Feel free to connect!</p></br>
+ <p align="center">I am actively seeking <b>Full Stack Developer</b> roles where I can leverage my Java and React skills. Feel free to connect!</p>
+<p align="center"><b>Thanks for visiting my GitHub! ⭐ Feel free to check out my repositories.</b></p>
+
 
