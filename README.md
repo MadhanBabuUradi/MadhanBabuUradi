@@ -28,15 +28,11 @@
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) 
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-F2F4F9?style=for-the-badge&logo=spring-boot)
     
-<br>
-    
-<h2 align="center">🤝 Let's Connect & Collaborate</h2>
-
-<p align="center">
-    I am actively seeking <b>Full Stack Developer</b> roles where I can leverage my Java and React skills. Feel free to connect!
-</p>
-<br>
+<br><h2 align="center">🤝 Let's Connect & Collaborate</h2><br>
 <p align="center">
     <a href="https://www.linkedin.com/in/madhanbabuuradi/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
     <a href="mailto:umadhanbabu01@gmail.com" target="_blank"><img alt="Mail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
+
+<br> <p align="center">I am actively seeking <b>Full Stack Developer</b> roles where I can leverage my Java and React skills. Feel free to connect!</p></br>
+
