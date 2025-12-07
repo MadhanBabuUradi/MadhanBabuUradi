@@ -30,7 +30,7 @@
     
 <br>
     
-<h2 align="center">Let's Get Connected</h2>
+<h2 align="center">🤝 Let's Connect & Collaborate</h2>
 
 <p align="center">
     I am actively seeking <b>Full Stack Developer</b> roles where I can leverage my Java and React skills. Feel free to connect!
