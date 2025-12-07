@@ -13,7 +13,7 @@
 <p align="center"> I am passionate about building clean, functional, and user-friendly applications, with a strong foundation in Java, frontend development, and database management. I have hands-on experience using React.js to build responsive user interfaces, and I am currently learning Spring Boot to strengthen my backend development skills. I am also exploring REST APIs, cloud platforms, and deployment workflows to improve my full-stack capabilities. My goal is to grow into a well-rounded Full Stack Developer by consistently learning, improving, and applying industry-relevant tools, frameworks, and best practices. ⚡</p>
 
 
-<h1 align="center">< ToolBox 🛠></h1>
+<h2 align="center">< ToolBox 🛠></h2>
 <p align="center"> 
 
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
