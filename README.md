@@ -10,7 +10,9 @@
     <img src="https://readme-typing-svg.herokuapp.com?color=E22FE4&width=380&height=45&lines=Always+Learning+New+Things...&center=true">
 </p>
 
-<p align="center"> I am passionate about building clean, functional, and user-friendly applications, with a strong foundation in Java, frontend development, and database management. I have hands-on experience using React.js to build responsive user interfaces, and I am currently learning Spring Boot to strengthen my backend development skills. I am also exploring REST APIs, cloud platforms, and deployment workflows to improve my full-stack capabilities. My goal is to grow into a well-rounded Full Stack Developer by consistently learning, improving, and applying industry-relevant tools, frameworks, and best practices. ⚡</p>
+<p align="center"> I am a dedicated and detail-oriented developer with a strong foundation in Java, frontend development, and database management. I enjoy building clean, functional, and user-friendly web applications that solve real problems. I have practical experience developing responsive interfaces with React.js, and I am actively learning Spring Boot to strengthen my backend development skills and move toward full-stack development.
+
+I am also exploring REST API integration, cloud platforms, and modern deployment workflows to improve the quality and scalability of my projects. I am committed to continuous learning and focused on becoming a well-rounded Full Stack Developer by applying industry-standard tools, clean architecture, and best engineering practices. ⚡</p>
 
 
 <h2 align="center">< ToolBox 🛠></h2>
